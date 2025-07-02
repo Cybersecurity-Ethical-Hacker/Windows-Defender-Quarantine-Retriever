@@ -86,7 +86,8 @@ options:
 ## 📂 Directory Structure
 - `RecoverDefenderQuarantine.ps1`: Main Powershell script.
 
-## ⚠️ Caution: Recovered files may be active malware. Always analyze in a secure, isolated environment!
+> [!NOTE]
+> ⚠️ Caution: Recovered files may be active malware. Always analyze in a secure, isolated environment!
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.

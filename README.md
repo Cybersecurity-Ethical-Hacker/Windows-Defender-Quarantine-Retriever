@@ -108,7 +108,7 @@ If you discover any vulnerabilities using this tool, report them responsibly to 
 Ensure that your use of this tool complies with all applicable local, national, and international laws and regulations.
 
 ## 📚 Learn and Grow
-Whether you're a budding penetration tester aiming to enhance your skills or a seasoned professional seeking to uncover and mitigate security issues, LFier is here to support your journey in building a safer digital landscape.
+Whether you're a digital forensics analyst, incident responder, or security researcher needing to recover quarantined evidence, Windows Defender Quarantine Retriever is here to support your investigations and ensure no crucial artifact is left behind in your pursuit of clarity and security.
 
 > [!NOTE]
 > Let’s build a safer web together! 🌐🔐

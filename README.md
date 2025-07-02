@@ -86,13 +86,10 @@ options:
 ## 📂 Directory Structure
 - `RecoverDefenderQuarantine.ps1`: Main Powershell script.
 
-⚠️ Caution: Recovered files may be active malware. Always analyze in a secure, isolated environment!
+## ⚠️ Caution: Recovered files may be active malware. Always analyze in a secure, isolated environment!
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
-
-> [!NOTE]
-> XSSuccessor currently supports the detection of Reflected Cross-Site Scripting (XSS) and DOM based vulnerabilities. I will expand its capabilities to include Stored XSS detection in upcoming releases. 
 
 ## 🛡️ Ethical Usage Guidelines
 I am committed to promoting ethical practices in cybersecurity. Please ensure that you use this tool responsibly and in accordance with the following guidelines:

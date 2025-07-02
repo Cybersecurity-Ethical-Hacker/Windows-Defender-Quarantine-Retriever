@@ -23,10 +23,10 @@ From there, you can securely copy it to your Kali Linux system (smbclient, wmiex
 ## 🌟 Features
 
 - 🔑 Checks multiple registry keys to accurately locate the Windows Defender quarantine folder, with a fallback to a default path.
-- **🔎 Search quarantine path for files matching any keyword (default: lsass).
-- **💾 Recover files detected within a customizable time window.
-- **📂 Organize recovered files for easy analysis.
-- **🛠️ Support quick extraction.
+- 🔎 Search quarantine path for files matching any keyword (default: lsass).
+- 💾 Recover files detected within a customizable time window.
+- 📂 Organize recovered files for easy analysis.
+- 🛠️ Support quick extraction.
 
 ## 🚀 Usage
 Windows Defender Quarantine Retriever can be used to recover quarantined files from a single machine or across multiple endpoints when integrated with remote management tools.

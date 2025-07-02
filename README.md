@@ -1,4 +1,4 @@
-# Windows Defender Quarantine Retriever 🔐https://github.com/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever/issues
+# Windows Defender Quarantine Retriever 🔐
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Issues](https://img.shields.io/github/issues/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever.svg)](https://github.com/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever/issues)

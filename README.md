@@ -1,8 +1,8 @@
 # Windows Defender Quarantine Retriever 🔐
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub Issues](https://img.shields.io/github/issues/Cybersecurity-Ethical-Hacker/xssuccessor.svg)](https://github.com/Cybersecurity-Ethical-Hacker/xssuccessor/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/Cybersecurity-Ethical-Hacker/xssuccessor.svg)](https://github.com/Cybersecurity-Ethical-Hacker/xssuccessor/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever.svg)](https://github.com/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever.svg)](https://github.com/Cybersecurity-Ethical-Hacker/Windows-Defender-Quarantine-Retriever/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 🔐 Windows Defender Quarantine Retriever is a robust PowerShell tool designed to automate the recovery of quarantined files from Windows Defender. It searches for files based on customizable keywords (defaulting to "lsass"), leverages Defender’s Threat IDs and detection timestamps to pinpoint relevant quarantined items, and retrieves encrypted files from Defender’s quarantine storage. The tool also dynamically locates the Defender quarantine path by checking multiple registry keys with a reliable fallback method. Windows Defender Quarantine Retriever organizes recovered files for streamlined forensic analysis, helping security professionals reclaim vital evidence that might otherwise be inaccessible due to Defender’s automated quarantine processes.

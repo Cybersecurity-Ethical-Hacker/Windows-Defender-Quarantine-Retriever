@@ -92,6 +92,9 @@ options:
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
 
+## 🔗 You can combine this tool with:
+https://github.com/Cybersecurity-Ethical-Hacker/MS-Defender-Quarantine-Decryptor
+
 ## 🛡️ Ethical Usage Guidelines
 I am committed to promoting ethical practices in cybersecurity. Please ensure that you use this tool responsibly and in accordance with the following guidelines:
 
